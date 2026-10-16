@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emmasmithd1985-png.github.io/gb-balashikha/sitemap.xml
