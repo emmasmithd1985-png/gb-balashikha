@@ -296,7 +296,7 @@ ul, ol { padding: 0; list-style: none; }
 .founder { display: grid; grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr); gap: clamp(28px, 4vw, 64px); align-items: center; }
 .founder-photo { width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; }
 .founder-quote { margin: 0; }
-.founder-quote blockquote { margin: 0; font-size: clamp(32px, 4.4vw, 64px); line-height: 1.1; overflow-wrap: break-word; }
+.founder-quote blockquote { margin: 0; font-size: clamp(28px, 3.4vw, 52px); line-height: 1.12; overflow-wrap: break-word; }
 .founder-quote figcaption { margin-top: 24px; display: grid; gap: 2px; font-size: 18px; }
 .founder-quote figcaption span { color: var(--ash); }
 .founder-quote p { margin-top: 24px; max-width: 34em; color: var(--ash); }
